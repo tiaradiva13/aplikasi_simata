@@ -6482,6 +6482,7 @@
                 "source": "https://github.com/laravel/sail"
             },
             "time": "2025-09-23T13:44:39+00:00"
+<<<<<<< Updated upstream
         },
         {
             "name": "laravel/telescope",
@@ -6551,6 +6552,8 @@
                 "source": "https://github.com/laravel/telescope/tree/v5.13.0"
             },
             "time": "2025-09-30T10:03:05+00:00"
+=======
+>>>>>>> Stashed changes
         },
         {
             "name": "mockery/mockery",
